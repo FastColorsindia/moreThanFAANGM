@@ -326,6 +326,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://www.f5.com/company/careers/">F5</a> </li>
+    <li><a href="https://www.fastcolors.in">FastColors</a>  </li>
 <li><a href="https://www.factset.com/careers">factset</a>  </li>
 <li><a href="https://fampay.in/careers">FamPay</a></li>
 <li><a href="https://jobs.fidelity.com/">Fidelity investments</a>  </li>
